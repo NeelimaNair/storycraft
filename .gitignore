@@ -1,0 +1,11 @@
+# Ignore all text files
+*.txt
+
+# Ignore dependencies
+dependencies
+
+# Ignore venv
+venv
+
+# Ignore storyImages
+storyImages
